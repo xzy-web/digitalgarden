@@ -7,7 +7,7 @@
 ## 1.mujoco仿真引擎安装
 
 ### 1.1 Visual Studio Build Tools的安装（两种方法可选，推荐第一种）
-1. 直接安装Visual Studio 2017版本，勾选如图（==一定要勾选Windows 10 SDK(10.0.10240.0)，其他默认即可==），安装包见网盘链接中==Visual Studio2017(64bit).rar==![](/img/user/仿真平台/attachment/Pasted image 20250415083701.png)
+1. 直接安装Visual Studio 2017版本，勾选如图（==一定要勾选Windows 10 SDK(10.0.10240.0)，其他默认即可==），安装包见网盘链接中==Visual Studio2017(64bit).rar![](/img/user/仿真平台/attachment/Pasted image 20250415083701.png)==
 2. 由于mujoco仿真引擎是基于C/C++的，因此我们==先要安装“Visual Studio Build Tools”==，这一步非常重要，不可跳过！再运行从百度网盘中下载的==“visualcppbuildtools_full.exe”==，勾选Windows 10 SDK，并点击安装。安装完成后，保险起见可以重启一下电脑再进行下一步。另外,“vs_buildtools.exe”是2017版本的Visual Studio Build Tools，用它安装也是可以的![](/img/user/仿真平台/attachment/Pasted image 20250415082834.png)
 ### 1.2 mjpro150_win64的安装
 
